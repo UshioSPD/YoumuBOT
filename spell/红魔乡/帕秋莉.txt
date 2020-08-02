@@ -1,0 +1,21 @@
+火符「Agni Shine」（火神之光）
+水符「Princess Undine」（水精公主）
+木符「Sylphy Horn」（风灵的角笛）
+土符「Lazy Trilithon」（慵懒三石塔）
+金符「Metal Fatigue」（金属疲劳）
+火符「Agni Shine上级」（火神之光 上级）
+木符「Sylphy Horn上级」（风灵的角笛 上级）
+土符「Lazy Trilithon上级」（慵懒三石塔 上级）
+火符「Agni Radiance」（火神的光辉）
+水符「Bury in Lake」（湖葬）
+木符「Green Storm」（翠绿风暴）
+土符「Trilithon Shake」（三石塔的震动）
+金符「Silver Dragon」（银龙）
+火&土符「Lava Cromlech」（环状熔岩带）
+木&火符「Forest Blaze」（森林大火）
+水&木符「Water Elf」（水精灵）
+金&水符「Mercury Poison」（水银之毒）
+土&金符「Emerald Megalith」（翡翠巨石）
+月符「Silent Selene」（沉静的月神）
+日符「Royal Flare」（皇家圣焰）
+火水木金土符「贤者之石」

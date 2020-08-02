@@ -1,0 +1,6 @@
+DDC Reimu A
+DDC Reimu B
+DDC Marisa A
+DDC Marisa B
+DDC Sakuya A
+DDC Sakuya B

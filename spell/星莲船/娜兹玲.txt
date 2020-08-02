@@ -1,0 +1,7 @@
+棒符「Busy Rod」(忙碌探知棒)
+搜符「Rare Metal Detector」(稀有金属探测器)
+搜符「Gold Detector] (黄金探测器)
+视符[Nazrin Pendulum」(娜兹玲灵摆)
+视符「高感度Nazrin Pendulum」(高感度娜兹玲灵摆)
+守符「Pendulum Guard」(灵摆防御)
+宝塔「Greatest Treasure」(最优良的宝物)

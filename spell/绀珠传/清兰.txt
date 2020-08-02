@@ -1,0 +1,4 @@
+凶弹「Speed Strike」(高速撞击)
+弹符「Eagle Shooting」(射鹰)
+弹符「鹰已击中」
+铳符「Lunatic Gun」(月狂之枪)
